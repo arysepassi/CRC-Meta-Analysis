@@ -1,0 +1,12 @@
+---
+title: "Colorecal Cancer Meta Analysis"
+output: html_notebook
+---
+
+This Github repository contains raw data and code used to generate results for the meta-analysis presented in Sepassi et al. 
+
+The raw data, included as a .csv file, contains data related to study author, number of rural participants reporting CRC screening, number of urban participants reporting CRC screening, total number of rural participants, and total number of urban participants. Download this file to your local computer and use it in the subsequent code snippet. 
+
+Please note the following packages should be installed prior to R script use: esc, tidyverse, meta, grid, gridExtra, ggrepel, metafor, ggplot2, fpc, and mclust. 
+
+For questions, please email Aryana Sepassi (asepassi@hs.uci.edu)
